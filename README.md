@@ -1,8 +1,10 @@
 # Welcome
 
-## Getting Super Powers
+This place is coding notes.
 
-Becoming a super hero is a fairly straight forward process:
+### 台達伺服馬達控制
+
+{% page-ref page="delta-servo-and-dmc-net.md" %}
 
 
 
