@@ -1,7 +1,3 @@
----
-description: This place is my coding notes.
----
-
 # Welcome
 
 ## Getting Super Powers
